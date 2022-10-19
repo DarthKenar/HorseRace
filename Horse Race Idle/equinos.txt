@@ -1,0 +1,3 @@
+Lista de Equinos Generados
+4 SecuazNegro Apalusa 5 79 6 96595
+2 PerroMaldito CuartodeMilla 30 53 7 62204
